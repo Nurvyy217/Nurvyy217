@@ -1,3 +1,5 @@
+![banner](img/github-header-image.png)
+
 <h2 align="left">About Me</h2>
 
 ###
