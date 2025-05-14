@@ -85,6 +85,12 @@
 
 ###
 
+<h2 align="left">Contributions</h2>
+
+###
+
+###
+
 <img src="https://raw.githubusercontent.com/Nurvyy217/Nurvyy217/output/snake.svg" alt="Snake animation" />
 
 ###
